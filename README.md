@@ -1,2 +1,2 @@
 # fiap-course-internet-systems
-FIAP Course - Internet systems proects
+FIAP Course - Internet systems projects
